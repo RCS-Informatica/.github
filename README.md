@@ -1,1 +1,1 @@
-# .github
+# RCS Informática
