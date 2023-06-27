@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**RCS Informática é uma das mais conceituadas empresas de Consultoria em Tecnologia da Informação do Leste de Minas Gerais, atuando nas áreas de Desenvolvimento de Sistemas, Projeto e Implantação de Redes de Micros Locais e Remotas, Planejamento Estratégico da Informação, Consultoria em Organização e Métodos, Outsourcing, Treinamento e Capacitação em Informática e Comercialização de Software e Hardware.**
+
 <!--
 
 **Here are some ideas to get you started:**
